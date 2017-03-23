@@ -23,4 +23,4 @@ $(document).ready(function() {
         return +val+1;
         console.log(+val+1)
     });
-}
+})
